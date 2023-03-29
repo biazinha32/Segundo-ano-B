@@ -23,8 +23,8 @@ body {
 	padding: 10px;
 }
 
-#jogos {
-	background: #000;
+#sobre mim {
+	background: #ADD8E6;
 	padding: 10px;
 	opacity : 0.6;
 }
@@ -33,13 +33,17 @@ body {
 	color: #FFFFFF;
 }
 
-.img-campanha {
-	border: 10px solid #868A08;
+.img-contato {
+	border: 10px solid #87CEEB;
 }
 
-.img-contato {
-	border: 10px solid #868A08;
+.img-vídeos {
+	border: 10px solid #87CEFA;
 }
+
+.img-imagens {
+	border: 10px solid #B0E0E6;
+}   
 
 a { /*Formatação dos links*/
 	color: #4b566a;
@@ -59,12 +63,6 @@ h3 {
 h4 {
 	color: #828271;
 	font-size: 1.2em;
-}
-#planejamento {
-	      background: #556b2f;
-	      padding: 10px;
-	      opacity : 0.6;
-}	
 
 #iframe{
  float: left;
